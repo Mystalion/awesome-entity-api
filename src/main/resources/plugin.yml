@@ -1,0 +1,4 @@
+name: AwesomeEntityAPI
+version: 0.1
+main: com.mystalion.entityapi.EntityAPIPlugin
+Authors: [Paulomart]
